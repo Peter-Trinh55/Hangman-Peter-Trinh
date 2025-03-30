@@ -4,7 +4,7 @@ import random
 
 # setup display
 pygame.init()
-WIDTH, HEIGHT = 1920, 1080
+WIDTH, HEIGHT = 1000, 600
 win = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Hangman Game!")
 
