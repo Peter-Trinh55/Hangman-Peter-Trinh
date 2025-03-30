@@ -1,7 +1,6 @@
 import pygame
 import math
 import random
-import pyinstaller
 
 # setup display
 pygame.init()
