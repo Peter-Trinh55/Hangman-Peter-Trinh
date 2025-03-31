@@ -15,5 +15,9 @@ This repository contains:
 
 # Instructions 📋
 1. Install Modified Hangman.zip file (does not contain any virus I swear)
-2. 
+2. Extract Modified Hangman.zip file into Modified Hangman folder
+3. Open Modified Hangman folder
+4. Open "dist" folder in the Modified Hangman folder
+5. Double-click MODIFIED_HANGMAN.exe to play Hangman
+6. Enjoy the game 🎉
 
