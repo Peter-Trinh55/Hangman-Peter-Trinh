@@ -7,10 +7,7 @@ This repository contains:
 - a modified version of Hangman Python code that include some QOLS features
 - an executable file of modified code that allows user to play Hangman without needing any supplementary programs
 - an image file needed for the Hangman Python code
-- Flowchart of the modified Hangman Python code
-- UML chart of the modified Hangman Python code
-- Pseudocode of the modified Hangman Python code
-- Logbook detailing changes in the modified Hangman Python code
+- Portfolio including documentations and diagrams
 
 
 # Instructions 📋
